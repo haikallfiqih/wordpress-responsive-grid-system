@@ -1,4 +1,4 @@
-# WordPress Responsive Grid System
+# CSS Responsive Grid System
 
 ![WordPress](https://img.shields.io/badge/WordPress-5.0%2B-blue)
 ![License](https://img.shields.io/badge/license-GPL--2.0%2B-green)
@@ -18,12 +18,12 @@ A lightweight and flexible grid system plugin for WordPress websites. Create res
 
 ### From GitHub:
 1. Download the latest release
-2. Upload the `wordpress-responsive-grid` folder to your `/wp-content/plugins/` directory
+2. Upload the `css-responsive-grid` folder to your `/wp-content/plugins/` directory
 3. Activate the plugin through the 'Plugins' menu in WordPress
 
 ### From WordPress Plugin Repository:
 1. Go to Plugins > Add New in your WordPress admin
-2. Search for "WordPress Responsive Grid System"
+2. Search for "CSS Responsive Grid System"
 3. Click "Install Now" and then "Activate"
 
 ## 🎯 Usage
