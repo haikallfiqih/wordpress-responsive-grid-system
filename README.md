@@ -78,7 +78,7 @@ This project is licensed under the GPL v2 or later - see the [LICENSE](LICENSE) 
 
 ## 👨‍💻 Author
 
-Created by [Haikal Fiqih](https://github.com/haikalfiqih)
+Created by [Haikal Fiqih](https://github.com/haikallfiqih)
 
 ## 🙏 Acknowledgments
 
